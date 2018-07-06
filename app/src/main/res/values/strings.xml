@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arduino Bluetooth</string>
+    <string name="title2">Control</string>
+    <string name="title1">Nuevo</string>
+</resources>
